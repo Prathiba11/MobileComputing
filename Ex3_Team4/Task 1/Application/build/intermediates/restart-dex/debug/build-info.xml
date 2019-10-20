@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="96184317315012" >
+
+    <task
+        name="javac"
+        duration="682" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="94" />
+    <task
+        name="verifier"
+        duration="58" />
+
+    <artifact
+        location="C:\Users\Jiahuan Yang\Desktop\BLE_Android_App-master\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        type="DEX" />
+
+    <build timestamp="96066672127119" >
+        <artifact
+            location="C:\Users\Jiahuan Yang\Desktop\BLE_Android_App-master\Application\build\outputs\apk\Application-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="96184317315012" >
+        <artifact
+            location="C:\Users\Jiahuan Yang\Desktop\BLE_Android_App-master\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

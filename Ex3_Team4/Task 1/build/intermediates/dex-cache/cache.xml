@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Infotech\Sem2\MC\Lab\Ex3\Beacon_Detector-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="D:\Infotech\Sem2\MC\Lab\Ex3\Beacon_Detector-master\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_67beed4f2ab3b781ee386980849cea06480adedf.jar" />
+    </item>
+    <item
+        jar="D:\Infotech\Sem2\MC\Lab\Ex3\Beacon_Detector-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="D:\Infotech\Sem2\MC\Lab\Ex3\Beacon_Detector-master\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v13-23.0.0_9098d006cb35b351d72745bc793ab8953f9b060a.jar" />
+    </item>
+    <item
+        jar="D:\Infotech\Sem2\MC\Lab\Ex3\Beacon_Detector-master\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="D:\Infotech\Sem2\MC\Lab\Ex3\Beacon_Detector-master\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.0.0_c4e54e40878c5aff7c227c5be253e2b65f95831d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dinesh Subhuraaj\.gradle\caches\modules-2\files-2.1\com.neovisionaries\nv-bluetooth\1.7\77375c79bcbf8cd6e472dc7e175b4c5674c3cf16\nv-bluetooth-1.7.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="77375c79bcbf8cd6e472dc7e175b4c5674c3cf16">
+        <dex dex="D:\Infotech\Sem2\MC\Lab\Ex3\Beacon_Detector-master\Application\build\intermediates\pre-dexed\debug\nv-bluetooth-1.7_d47910e72f4497de3c8c2ef8d1f9d0bfd9eb612a.jar" />
+    </item>
+    <item
+        jar="D:\Infotech\Sem2\MC\Lab\Ex3\Beacon_Detector-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\Infotech\Sem2\MC\Lab\Ex3\Beacon_Detector-master\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_ea057e6cbe29765e604dcdaf3a32b0356b5dccb8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dinesh Subhuraaj\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\Infotech\Sem2\MC\Lab\Ex3\Beacon_Detector-master\Application\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_8c2d68c0158800ddab8a22c292c31ec4d998ea1d.jar" />
+    </item>
+    <item
+        jar="D:\Infotech\Sem2\MC\Lab\Ex3\Beacon_Detector-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\Infotech\Sem2\MC\Lab\Ex3\Beacon_Detector-master\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_c59d3a9946270547b3c9ec60fb8cde2444077ca6.jar" />
+    </item>
+
+</items>

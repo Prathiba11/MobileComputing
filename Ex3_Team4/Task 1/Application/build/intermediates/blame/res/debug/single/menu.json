@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Dinesh Subhuraaj\\Downloads\\Beacon_Detector-master\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "C:\\Users\\Dinesh Subhuraaj\\Downloads\\Beacon_Detector-master\\Application\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dinesh Subhuraaj\\Downloads\\Beacon_Detector-master\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Dinesh Subhuraaj\\Downloads\\Beacon_Detector-master\\Application\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jiahuan Yang\\Desktop\\BLE_Android_App-master\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "C:\\Users\\Jiahuan Yang\\Desktop\\BLE_Android_App-master\\Application\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "D:\\Infotech\\Sem2\\MC\\Lab\\Ex3\\Beacon_Detector-master\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Infotech\\Sem2\\MC\\Lab\\Ex3\\Beacon_Detector-master\\Application\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Infotech\\Sem2\\MC\\Lab\\Ex3\\Beacon_Detector-master\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "D:\\Infotech\\Sem2\\MC\\Lab\\Ex3\\Beacon_Detector-master\\Application\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jiahuan Yang\\Desktop\\BLE_Android_App-master\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Jiahuan Yang\\Desktop\\BLE_Android_App-master\\Application\\src\\main\\res\\menu\\main.xml"
+    }
+]

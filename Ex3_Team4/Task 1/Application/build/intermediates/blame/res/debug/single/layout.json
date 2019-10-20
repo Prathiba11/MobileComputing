@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Infotech\\Sem2\\MC\\Lab\\Ex3\\Beacon_Detector-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "D:\\Infotech\\Sem2\\MC\\Lab\\Ex3\\Beacon_Detector-master\\Application\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jiahuan Yang\\Desktop\\BLE_Android_App-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\gatt_services_characteristics.xml",
+        "source": "C:\\Users\\Jiahuan Yang\\Desktop\\BLE_Android_App-master\\Application\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dinesh Subhuraaj\\Downloads\\Beacon_Detector-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\gatt_services_characteristics.xml",
+        "source": "C:\\Users\\Dinesh Subhuraaj\\Downloads\\Beacon_Detector-master\\Application\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "D:\\Infotech\\Sem2\\MC\\Lab\\Ex3\\Beacon_Detector-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "D:\\Infotech\\Sem2\\MC\\Lab\\Ex3\\Beacon_Detector-master\\Application\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "D:\\Infotech\\Sem2\\MC\\Lab\\Ex3\\Beacon_Detector-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\gatt_services_characteristics.xml",
+        "source": "D:\\Infotech\\Sem2\\MC\\Lab\\Ex3\\Beacon_Detector-master\\Application\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dinesh Subhuraaj\\Downloads\\Beacon_Detector-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "C:\\Users\\Dinesh Subhuraaj\\Downloads\\Beacon_Detector-master\\Application\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jiahuan Yang\\Desktop\\BLE_Android_App-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "C:\\Users\\Jiahuan Yang\\Desktop\\BLE_Android_App-master\\Application\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jiahuan Yang\\Desktop\\BLE_Android_App-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "C:\\Users\\Jiahuan Yang\\Desktop\\BLE_Android_App-master\\Application\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dinesh Subhuraaj\\Downloads\\Beacon_Detector-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "C:\\Users\\Dinesh Subhuraaj\\Downloads\\Beacon_Detector-master\\Application\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    }
+]
